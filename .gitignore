@@ -1,7 +1,7 @@
 # vim swap
-*.swap
-*.swan
-*.swao
+*.swp
+*.swn
+*.swo
 
 # vim backup
 *~

@@ -1,0 +1,11 @@
+# vim swap
+*.swap
+*.swan
+*.swao
+
+# vim backup
+*~
+
+# vim undo
+*.un~
+
